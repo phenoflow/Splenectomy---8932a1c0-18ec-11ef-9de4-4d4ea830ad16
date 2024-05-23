@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/splenectomy-excision---primary.py
+inputModule3:
+  class: File
+  path: python/total-splenectomy---primary.py
+inputModule4:
+  class: File
+  path: python/other-splenectomy---primary.py
+inputModule5:
+  class: File
+  path: python/splenectomy---primary.py
+inputModule6:
+  class: File
+  path: python/splenectomy-spleen---primary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
